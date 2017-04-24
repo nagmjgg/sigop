@@ -7,4 +7,6 @@ estado de actividad y responsable según tarea de seguimiento
 tiempo de actividad desde inicio
 siguiente actividad
 
-
+Visitas pendientes
+Recolección de equipos pendientes
+Desactivación de servicios temporales
